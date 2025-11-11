@@ -25,7 +25,7 @@ I am a senior engineer specializing in open-source middleware technical support 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" style="margin: 2px;"/>
 </p>
 
-## 🔧 Frameworks, Platforms and Libraries
+## 🔧 Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 2px;"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="margin: 2px;"/>
