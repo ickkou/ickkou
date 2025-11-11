@@ -1,4 +1,6 @@
-# Tech Stack
+# Hi there 👋
+
+I am a senior engineer specializing in open-source middleware technical support in Korea.
 
 ## 📞 Contact
 <p>
